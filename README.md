@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrankUzor
 - 👀 I’m interested in ...Data Analytics
 - 🌱 I’m currently learning ..Data Analytics from Google.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Data Analytics
 - 📫 How to reach me ...quadosky@gmail.com
 
 <!---
